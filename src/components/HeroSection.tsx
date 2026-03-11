@@ -79,7 +79,7 @@ const HeroSection = () => {
             transition={{ delay: 0.5 }}
             className="text-5xl md:text-7xl font-bold gradient-text"
           >
-            John Doe
+            Ain Malik
           </motion.h1>
 
           <motion.div
