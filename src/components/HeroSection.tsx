@@ -60,7 +60,7 @@ const HeroSection = () => {
             className="w-28 h-28 rounded-full bg-gradient-to-r from-primary to-accent p-[2px]"
           >
             <div className="w-full h-full rounded-full bg-background flex items-center justify-center text-3xl font-display font-bold gradient-text">
-              JD
+              AM
             </div>
           </motion.div>
 
@@ -79,7 +79,7 @@ const HeroSection = () => {
             transition={{ delay: 0.5 }}
             className="text-5xl md:text-7xl font-bold gradient-text"
           >
-            John Doe
+            Ain Malik
           </motion.h1>
 
           <motion.div
